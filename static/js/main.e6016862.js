@@ -8354,7 +8354,7 @@ function(e, t, n) {
         o.a.createElement("p", null, "\u57fa\u4e8e ", o.a.createElement(l, {
             to: "https://uptimerobot.com/",
             text: "UptimeRobot"
-        }), " \u63a5\u53e3\u5236\u4f5c\uff0c\u68c0\u6d4b\u9891\u7387 5 \u5206\u949f"), o.a.createElement("p", null, "\xa9 2020 ", o.a.createElement(l, {
+        }), " \u63a5\u53e3\u5236\u4f5c\uff0c\u68c0\u6d4b\u9891\u7387 5 \u5206\u949f"), o.a.createElement("p", null, "\xa9 2021-2022 ", o.a.createElement(l, {
             to: "https://nekoz.top",
             text: "Neko小站"
         }))))
