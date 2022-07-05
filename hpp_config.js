@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '',
+  SiteName: ' ',
 
   // 站点链接
   SiteUrl: '/',
@@ -22,4 +22,6 @@ window.Config = {
   CountDays: 60,
 
   // 导航栏菜单
+  Navi: [
+  ]
 };
